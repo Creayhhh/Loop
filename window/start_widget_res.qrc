@@ -1,9 +1,0 @@
-<RCC>
-  <qresource prefix="window">
-    <file>icons/js.svg</file>
-    <file>icons/yl_white.svg</file>
-    <file>icons/play.svg</file>
-    <file>icons/clock.svg</file>
-    <file>icons/exit.svg</file>
-  </qresource>
-</RCC>

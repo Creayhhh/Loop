@@ -1,8 +1,0 @@
-<RCC>
-  <qresource prefix="window">
-    <file>icons/msg_success.svg</file>
-    <file>icons/msg_error.svg</file>
-    <file>icons/msg_tips.svg</file>
-    <file>icons/msg_warning.svg</file>
-  </qresource>
-</RCC>
