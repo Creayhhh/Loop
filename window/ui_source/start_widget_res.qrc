@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="window">
+    <file>../icons/exit.svg</file>
+    <file>../icons/play.svg</file>
+  </qresource>
+</RCC>

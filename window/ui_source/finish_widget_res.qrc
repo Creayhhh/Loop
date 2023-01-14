@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="window">
+    <file>icons/exit.svg</file>
+    <file>icons/retry.svg</file>
+    <file>icons/star.svg</file>
+  </qresource>
+</RCC>

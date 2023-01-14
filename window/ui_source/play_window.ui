@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Play_Window</class>
+ <widget class="QMainWindow" name="Play_Window">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>950</width>
+    <height>618</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="countLabel">
+    <property name="geometry">
+     <rect>
+      <x>644</x>
+      <y>30</y>
+      <width>250</width>
+      <height>150</height>
+     </rect>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>250</width>
+      <height>150</height>
+     </size>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>65</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgba(34, 31, 31, 0.9);
+border-radius:20px;
+color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>20</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QLabel" name="timeLabel">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>30</y>
+      <width>250</width>
+      <height>150</height>
+     </rect>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>250</width>
+      <height>150</height>
+     </size>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>65</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgba(34, 31, 31, 0.9);
+border-radius:20px;
+color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>0:28</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QLabel" name="camLabel">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>941</width>
+      <height>611</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(85, 170, 127);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <zorder>camLabel</zorder>
+   <zorder>countLabel</zorder>
+   <zorder>timeLabel</zorder>
+  </widget>
+ </widget>
+ <resources>
+  <include location="finish_dialog_res.qrc"/>
+ </resources>
+ <connections/>
+</ui>
