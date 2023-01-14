@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="window">
+    <file>icons/check.svg</file>
+    <file>images/approve request.svg</file>
+    <file>images/球类运动.svg</file>
+    <file>images/没有收藏.svg</file>
+    <file>images/registration.svg</file>
+    <file>icons/back.svg</file>
+    <file>icons/dog.svg</file>
+    <file>icons/yl_blue.svg</file>
+    <file>icons/lock.svg</file>
+    <file>icons/user.svg</file>
+    <file>icons/js_l.svg</file>
+    <file>icons/js_r.svg</file>
+    <file>images/login_bg.png</file>
+    <file>icons/bone.svg</file>
+    <file>icons/close.svg</file>
+    <file>icons/close_white.svg</file>
+  </qresource>
+</RCC>
