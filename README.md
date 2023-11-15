@@ -47,6 +47,9 @@ Loop
 ## 配套的Server
 本应用需要搭配对应的服务端才能够正常的使用，[服务端的链接在这里](https://github.com/Creayhhh/LoopServer)
 
+## 小小的后台管理系统
+本应用也写了一个小小的后台管理系统，实现查询所有用户的运动记录和账号管理的功能，[后台管理系统的链接在这里](https://github.com/Creayhhh/LoopAdmin)
+
 ## 代码引用
 本应用的运动计数状态功能代码来源于CSDN博主“[再游于北方知寒](https://blog.csdn.net/m0_57110410?type=blog)”，其项目的[CSDN链接在这里](https://blog.csdn.net/m0_57110410/article/details/125569971)，[GitHub链接在这里](https://github.com/MichistaLin/mediapipe-Fitness-counter)，如果侵犯了作者的权益，请联系我。
 
